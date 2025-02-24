@@ -1,0 +1,25 @@
+NAME                         VERSION                                   TYPE                          
+PyPDF2                       3.0.1                                     python                         
+PyYAML                       6.0.1                                     python                         
+Random_Word                  1.0.11                                    python                         
+Requests                     2.31.0                                    python                         
+actions/checkout             v2                                        github-action  (+1 duplicate)  
+actions/checkout             v3                                        github-action                  
+actions/setup-python         v2                                        github-action  (+1 duplicate)  
+actions/setup-python         v3                                        github-action                  
+actions/upload-artifact      v2                                        github-action                  
+beautifulsoup4               4.12.3                                    python                         
+chromadb                     0.4.24                                    python                         
+docx2txt                     0.8                                       python                         
+llama-cpp-python             0.2.58                                    python                         
+matplotlib                   3.6.2                                     python                         
+numpy                        1.23.5                                    python                         
+pandas                       1.4.4                                     python                         
+pypa/gh-action-pypi-publish  27b31702a0e7fc50959f5ad993c78deac1bdfc29  github-action                  
+pysbd                        0.3.4                                     python                         
+regex                        2022.10.31                                python                         
+sentence-transformers        2.6.1                                     python                         
+setuptools                   65.3.0                                    python                         
+tiktoken                     0.4.0                                     python                         
+torch                        2.2.2                                     python                         
+tqdm                         4.65.0                                    python

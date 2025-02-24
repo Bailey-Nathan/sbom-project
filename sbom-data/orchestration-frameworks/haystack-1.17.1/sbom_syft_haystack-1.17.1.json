@@ -1,0 +1,25 @@
+NAME                                VERSION  TYPE                            
+act10ns/slack                       v2       github-action                    
+actions/add-to-project              v0.3.0   github-action                    
+actions/cache                       v3       github-action                    
+actions/checkout                    v3       github-action  (+15 duplicates)  
+actions/labeler                     v4       github-action                    
+actions/setup-python                v4       github-action  (+10 duplicates)  
+actions/stale                       v6       github-action                    
+coverallsapp/github-action          v2       github-action                    
+docker/bake-action                  v2       github-action  (+1 duplicate)    
+docker/login-action                 v1       github-action                    
+docker/login-action                 v2       github-action                    
+docker/metadata-action              v4       github-action                    
+docker/setup-buildx-action          v2       github-action  (+1 duplicate)    
+docker/setup-qemu-action            v2       github-action  (+1 duplicate)    
+fossas/fossa-action                 v1.3.1   github-action                    
+int128/datadog-actions-metrics      v1       github-action                    
+madhead/semver-utils                latest   github-action                    
+masci/datadog                       v1       github-action  (+2 duplicates)   
+pilosus/action-pip-license-checker  v2       github-action                    
+pydoc-markdown                      4.6.4    python                           
+readmeio/rdme                       8.3.1    github-action  (+1 duplicate)    
+requests                            2.28.2   python                           
+slackapi/slack-github-action        v1.23.0  github-action                    
+tj-actions/changed-files            v34      github-action

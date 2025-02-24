@@ -1,0 +1,10 @@
+NAME                        VERSION  TYPE            
+actions/checkout            v3       github-action    
+docker/build-push-action    v4       github-action    
+docker/login-action         v2       github-action    
+docker/setup-buildx-action  v2       github-action    
+docker/setup-qemu-action    v2       github-action    
+gradio                      3.33.1   python           
+gradio_client               0.2.5    python           
+langchain                   0.0.173  python           
+protobuf                    3.19.0   python

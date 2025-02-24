@@ -1,0 +1,10 @@
+NAME                           VERSION  TYPE                          
+actions/checkout               v3       github-action  (+1 duplicate)  
+actions/configure-pages        v2       github-action                  
+actions/deploy-pages           v1       github-action                  
+actions/setup-python           v4       github-action  (+1 duplicate)  
+actions/upload-pages-artifact  v1       github-action                  
+mkdocs                         1.4.2    python                         
+mkdocs-jupyter                 0.24.1   python                         
+mkdocs-material                9.1.3    python                         
+mkdocstrings                   0.20.0   python

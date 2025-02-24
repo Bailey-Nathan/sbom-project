@@ -1,0 +1,4 @@
+NAME                        VERSION  TYPE            
+actions/checkout            v2       github-action    
+mattnotmitt/doxygen-action  v1.1.0   github-action    
+peaceiris/actions-gh-pages  v3       github-action

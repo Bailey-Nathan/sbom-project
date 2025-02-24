@@ -1,0 +1,28 @@
+NAME                                VERSION        TYPE                          
+agents-flex-core                    1.0.0-alpha.4  java-archive  (+8 duplicates)  
+agents-flex-document-parser-pdfbox  1.0.0-alpha.4  java-archive                   
+agents-flex-document-parser-poi     1.0.0-alpha.4  java-archive                   
+agents-flex-llm-chatglm             1.0.0-alpha.4  java-archive                   
+agents-flex-llm-openai              1.0.0-alpha.4  java-archive                   
+agents-flex-llm-qwen                1.0.0-alpha.4  java-archive                   
+agents-flex-llm-spark               1.0.0-alpha.4  java-archive                   
+agents-flex-store-aliyun            1.0.0-alpha.4  java-archive                   
+agents-flex-store-chroma            1.0.0-alpha.4  java-archive                   
+agents-flex-store-elasticsearch     1.0.0-alpha.4  java-archive                   
+agents-flex-store-milvus            1.0.0-alpha.4  java-archive                   
+agents-flex-store-opensearch        1.0.0-alpha.4  java-archive                   
+agents-flex-store-qcloud            1.0.0-alpha.4  java-archive                   
+agents-flex-store-redis             1.0.0-alpha.4  java-archive                   
+fastjson                                           java-archive  (+1 duplicate)   
+jcl-over-slf4j                                     java-archive                   
+jjwt                                0.9.1          java-archive                   
+junit                                              java-archive  (+5 duplicates)  
+okhttp                                             java-archive                   
+okhttp-sse                                         java-archive                   
+pdfbox                              2.0.30         java-archive                   
+poi                                 5.2.5          java-archive                   
+poi-ooxml                           5.2.5          java-archive                   
+poi-scratchpad                      5.2.5          java-archive                   
+slf4j-api                                          java-archive                   
+slf4j-log4j12                                      java-archive                   
+slf4j-simple                                       java-archive

@@ -1,0 +1,26 @@
+NAME                          VERSION       TYPE                           
+actions/checkout              v2            github-action  (+2 duplicates)  
+actions/checkout              v3            github-action                   
+actions/github-script         v6            github-action                   
+actions/setup-python          v2            github-action  (+2 duplicates)  
+actions/setup-python          v4            github-action                   
+actions/upload-release-asset  v1            github-action                   
+codespell                     2.2.6         python                          
+hendrikmuhs/ccache-action     v1.2          github-action                   
+isort                         5.13.2        python                          
+lm-format-enforcer            0.9.8         python                          
+mypy                          1.9.0         python                          
+myst-parser                   2.0.0         python                          
+outlines                      0.0.34        python                          
+ray                           2.9.3         python                          
+ruff                          0.1.5         python                          
+sphinx                        6.2.1         python                          
+sphinx-book-theme             1.0.1         python                          
+sphinx-copybutton             0.5.2         python                          
+tensorizer                    2.9.0         python         (+1 duplicate)   
+tiktoken                      0.6.0         python                          
+toml                          0.10.2        python                          
+tomli                         2.0.1         python                          
+torch                         2.3.0         python         (+2 duplicates)  
+xformers                      0.0.26.post1  python                          
+yapf                          0.32.0        python

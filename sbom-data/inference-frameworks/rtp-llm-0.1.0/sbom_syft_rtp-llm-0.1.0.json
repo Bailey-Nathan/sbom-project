@@ -1,0 +1,9 @@
+NAME           VERSION  TYPE                    
+fastapi        0.95.0   python  (+2 duplicates)  
+numpy          1.24.1   python  (+2 duplicates)  
+protobuf       3.20.0   python  (+2 duplicates)  
+sentencepiece  0.1.99   python  (+2 duplicates)  
+tiktoken       0.4.0    python  (+2 duplicates)  
+torchvision    0.16.0   python  (+1 duplicate)   
+transformers   4.33.1   python  (+2 duplicates)  
+uvicorn        0.21.1   python  (+2 duplicates)

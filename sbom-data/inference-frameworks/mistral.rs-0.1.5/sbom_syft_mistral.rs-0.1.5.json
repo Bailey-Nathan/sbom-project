@@ -1,0 +1,18 @@
+NAME                                  VERSION  TYPE                           
+JamesIves/github-pages-deploy-action  v4       github-action                   
+actions-rs/cargo                      v1       github-action                   
+actions-rs/toolchain                  v1       github-action  (+1 duplicate)   
+actions/cache                         v3       github-action                   
+actions/checkout                      v2       github-action                   
+actions/checkout                      v3       github-action  (+3 duplicates)  
+actions/checkout                      v4       github-action                   
+actions/configure-pages               v3       github-action                   
+actions/github-script                 v6       github-action                   
+actions/setup-python                  v5       github-action                   
+crate-ci/typos                        master   github-action                   
+docker/build-push-action              v4       github-action  (+1 duplicate)   
+docker/login-action                   v2       github-action  (+1 duplicate)   
+docker/metadata-action                v4.3.0   github-action  (+1 duplicate)   
+docker/setup-buildx-action            v2.0.0   github-action  (+1 duplicate)   
+iryanbell/scc-docker-action           v1.0.2   github-action                   
+rlespinasse/github-slug-action        v4.4.1   github-action  (+1 duplicate)

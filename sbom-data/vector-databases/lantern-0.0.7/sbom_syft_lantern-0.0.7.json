@@ -1,0 +1,17 @@
+NAME                                  VERSION  TYPE                           
+actions/cache                         v3       github-action                   
+actions/cache/save                    v3       github-action                   
+actions/checkout                      v3       github-action  (+4 duplicates)  
+actions/download-artifact             v3       github-action                   
+actions/upload-artifact               v3       github-action  (+3 duplicates)  
+codecov/codecov-action                v3       github-action                   
+docker/build-push-action              v3       github-action                   
+docker/login-action                   v2       github-action                   
+docker/setup-buildx-action            v2       github-action                   
+docker/setup-qemu-action              v2       github-action                   
+geekyeggo/delete-artifact             v2       github-action                   
+mxschmitt/action-tmate                v3       github-action                   
+peter-evans/create-or-update-comment  v3       github-action                   
+peter-evans/find-comment              v2       github-action                   
+softprops/action-gh-release           v1       github-action                   
+var77/bump-homebrew-formula-action    main     github-action

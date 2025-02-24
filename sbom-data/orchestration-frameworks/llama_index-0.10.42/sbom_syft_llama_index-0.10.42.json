@@ -1,0 +1,484 @@
+NAME                                     VERSION          TYPE                           
+Babel                                    2.14.0           python                          
+Faker                                    19.1.0           python                          
+IMDbPY                                   2022.7.9         python                          
+JRubics/poetry-publish                   v1.17            github-action                   
+Jinja2                                   3.1.4            python                          
+Markdown                                 3.5.2            python                          
+MarkupSafe                               2.1.5            python                          
+PyPDF2                                   3.0.1            python                          
+PyYAML                                   6.0.1            python                          
+Pygments                                 2.17.2           python                          
+actions/checkout                         v3               github-action  (+5 duplicates)  
+actions/create-release                   v1               github-action                   
+actions/setup-python                     v4               github-action  (+4 duplicates)  
+actions/upload-release-asset             v1               github-action                   
+aiohttp                                  3.8.4            python                          
+aiohttp                                  3.9.4            python         (+1 duplicate)   
+aiohttp                                  3.9.5            python         (+2 duplicates)  
+aiosignal                                1.3.1            python         (+4 duplicates)  
+alabaster                                0.7.13           python                          
+annotated-types                          0.6.0            python         (+2 duplicates)  
+annotated-types                          0.7.0            python                          
+anyio                                    4.3.0            python         (+3 duplicates)  
+anyio                                    4.4.0            python                          
+appnope                                  0.1.4            python         (+6 duplicates)  
+argon2-cffi                              23.1.0           python         (+3 duplicates)  
+argon2-cffi-bindings                     21.2.0           python         (+3 duplicates)  
+arrow                                    1.3.0            python         (+3 duplicates)  
+arxiv                                    1.4.8            python                          
+astroid                                  2.13.5           python         (+4 duplicates)  
+asttokens                                2.4.1            python         (+6 duplicates)  
+astunparse                               1.6.3            python                          
+async-lru                                2.0.4            python         (+3 duplicates)  
+async-timeout                            4.0.3            python         (+4 duplicates)  
+attrs                                    23.2.0           python         (+6 duplicates)  
+autodoc-pydantic                         1.9.0            python                          
+babel                                    2.14.0           python         (+4 duplicates)  
+babel                                    2.15.0           python                          
+backcall                                 0.2.0            python         (+4 duplicates)  
+beautifulsoup4                           4.12.3           python         (+6 duplicates)  
+black                                    24.3.0           python         (+4 duplicates)  
+bleach                                   6.1.0            python         (+6 duplicates)  
+boto3                                    1.33.6           python                          
+botocore                                 1.33.13          python                          
+certifi                                  2024.2.2         python         (+6 duplicates)  
+cffi                                     1.16.0           python         (+5 duplicates)  
+cfgv                                     3.4.0            python         (+4 duplicates)  
+charset-normalizer                       3.3.2            python         (+6 duplicates)  
+click                                    8.1.7            python         (+6 duplicates)  
+codespell                                2.2.6            python         (+3 duplicates)  
+codespell                                2.3.0            python                          
+colorama                                 0.4.6            python         (+6 duplicates)  
+comm                                     0.2.1            python                          
+comm                                     0.2.2            python         (+5 duplicates)  
+cryptography                             42.0.4           python                          
+cryptography                             42.0.5           python         (+2 duplicates)  
+cryptography                             42.0.7           python                          
+dataclasses-json                         0.6.4            python         (+3 duplicates)  
+dataclasses-json                         0.6.6            python                          
+debugpy                                  1.8.1            python         (+6 duplicates)  
+decorator                                5.1.1            python         (+6 duplicates)  
+defusedxml                               0.7.1            python         (+6 duplicates)  
+deprecated                               1.2.14           python         (+4 duplicates)  
+dill                                     0.3.8            python         (+4 duplicates)  
+dirtyjson                                1.0.8            python         (+4 duplicates)  
+distlib                                  0.3.8            python         (+4 duplicates)  
+distro                                   1.9.0            python         (+4 duplicates)  
+dnspython                                2.6.1            python         (+1 duplicate)   
+docker                                   7.0.0            python                          
+docutils                                 0.16             python                          
+duckduckgo-search                        4.5.0            python                          
+ecdsa                                    0.19.0           python                          
+email-validator                          2.1.1            python                          
+entrypoints                              0.4              python                          
+exceptiongroup                           1.2.0            python         (+1 duplicate)   
+exceptiongroup                           1.2.1            python         (+2 duplicates)  
+executing                                2.0.1            python         (+6 duplicates)  
+fastapi                                  0.109.2          python                          
+fastjsonschema                           2.19.1           python         (+6 duplicates)  
+filelock                                 3.13.1           python         (+1 duplicate)   
+filelock                                 3.13.4           python         (+1 duplicate)   
+filelock                                 3.14.0           python                          
+fqdn                                     1.5.1            python         (+3 duplicates)  
+frozenlist                               1.4.1            python         (+4 duplicates)  
+fsspec                                   2024.2.0         python                          
+fsspec                                   2024.3.1         python         (+2 duplicates)  
+fsspec                                   2024.5.0         python                          
+furo                                     2023.3.27        python                          
+ghp-import                               2.1.0            python         (+2 duplicates)  
+github/codeql-action/analyze             v2               github-action                   
+github/codeql-action/autobuild           v2               github-action                   
+github/codeql-action/init                v2               github-action                   
+greenlet                                 3.0.3            python         (+4 duplicates)  
+griffe                                   0.42.0           python                          
+griffe                                   0.44.0           python                          
+griffe                                   0.45.2           python                          
+h11                                      0.14.0           python         (+4 duplicates)  
+httpcore                                 1.0.4            python         (+1 duplicate)   
+httpcore                                 1.0.5            python         (+2 duplicates)  
+httptools                                0.6.1            python                          
+httpx                                    0.27.0           python         (+4 duplicates)  
+identify                                 2.5.35           python         (+3 duplicates)  
+identify                                 2.5.36           python                          
+idna                                     3.7              python         (+6 duplicates)  
+imagesize                                1.4.1            python                          
+importlib-metadata                       7.0.1            python                          
+importlib-metadata                       7.0.2            python                          
+importlib-metadata                       7.1.0            python         (+2 duplicates)  
+importlib-resources                      6.1.1            python                          
+importlib-resources                      6.3.1            python                          
+importlib-resources                      6.4.0            python         (+2 duplicates)  
+iniconfig                                2.0.0            python         (+4 duplicates)  
+ipykernel                                6.29.2           python                          
+ipykernel                                6.29.3           python         (+1 duplicate)   
+ipykernel                                6.29.4           python         (+3 duplicates)  
+ipython                                  8.10.0           python         (+3 duplicates)  
+ipython                                  8.12.3           python                          
+ipython                                  8.22.2           python                          
+ipython                                  8.23.0           python                          
+ipywidgets                               8.1.2            python         (+3 duplicates)  
+isoduration                              20.11.0          python         (+3 duplicates)  
+isort                                    5.13.2           python         (+4 duplicates)  
+itsdangerous                             2.2.0            python                          
+jedi                                     0.19.1           python         (+6 duplicates)  
+jinja2                                   3.1.3            python                          
+jinja2                                   3.1.4            python         (+4 duplicates)  
+jmespath                                 1.0.1            python                          
+joblib                                   1.3.2            python         (+1 duplicate)   
+joblib                                   1.4.0            python         (+1 duplicate)   
+joblib                                   1.4.2            python                          
+json5                                    0.9.17           python                          
+json5                                    0.9.24           python                          
+json5                                    0.9.25           python         (+1 duplicate)   
+jsonpointer                              2.4              python         (+3 duplicates)  
+jsonschema                               4.21.1           python         (+5 duplicates)  
+jsonschema                               4.22.0           python                          
+jsonschema-specifications                2023.12.1        python         (+6 duplicates)  
+jupyter                                  1.0.0            python         (+3 duplicates)  
+jupyter-cache                            0.6.1            python                          
+jupyter-client                           8.6.0            python                          
+jupyter-client                           8.6.1            python         (+3 duplicates)  
+jupyter-client                           8.6.2            python                          
+jupyter-console                          6.6.3            python         (+3 duplicates)  
+jupyter-core                             5.7.1            python                          
+jupyter-core                             5.7.2            python         (+4 duplicates)  
+jupyter-events                           0.10.0           python         (+2 duplicates)  
+jupyter-events                           0.9.0            python                          
+jupyter-lsp                              2.2.2            python                          
+jupyter-lsp                              2.2.4            python                          
+jupyter-lsp                              2.2.5            python         (+1 duplicate)   
+jupyter-server                           2.12.5           python                          
+jupyter-server                           2.13.0           python                          
+jupyter-server                           2.14.0           python         (+1 duplicate)   
+jupyter-server-terminals                 0.5.2            python                          
+jupyter-server-terminals                 0.5.3            python         (+2 duplicates)  
+jupyter_client                           8.6.1            python                          
+jupyter_core                             5.7.2            python                          
+jupyterlab                               4.1.2            python                          
+jupyterlab                               4.1.5            python                          
+jupyterlab                               4.1.6            python         (+1 duplicate)   
+jupyterlab-pygments                      0.3.0            python         (+5 duplicates)  
+jupyterlab-server                        2.25.3           python                          
+jupyterlab-server                        2.25.4           python                          
+jupyterlab-server                        2.26.0           python         (+1 duplicate)   
+jupyterlab-widgets                       3.0.10           python         (+3 duplicates)  
+jupyterlab_pygments                      0.3.0            python                          
+jupytext                                 1.16.1           python         (+1 duplicate)   
+jupytext                                 1.16.2           python                          
+lazy-object-proxy                        1.10.0           python         (+4 duplicates)  
+livereload                               2.6.3            python                          
+llama-index-agent-openai                 0.2.6            python                          
+llama-index-cli                          0.1.12           python                          
+llama-index-core                         0.10.24          python         (+1 duplicate)   
+llama-index-core                         0.10.30          python                          
+llama-index-core                         0.10.42          python                          
+llama-index-embeddings-openai            0.1.10           python                          
+llama-index-embeddings-openai            0.1.7            python                          
+llama-index-indices-managed-llama-cloud  0.1.6            python                          
+llama-index-legacy                       0.9.48           python                          
+llama-index-llms-openai                  0.1.12           python                          
+llama-index-llms-openai                  0.1.15           python                          
+llama-index-llms-openai                  0.1.21           python                          
+llama-index-multi-modal-llms-openai      0.1.6            python                          
+llama-index-program-openai               0.1.6            python                          
+llama-index-question-gen-openai          0.1.3            python                          
+llama-index-readers-file                 0.1.19           python                          
+llama-index-readers-file                 0.1.23           python                          
+llama-index-readers-llama-parse          0.1.4            python                          
+llama-index-readers-wikipedia            0.1.3            python                          
+llama-parse                              0.4.4            python                          
+llamaindex-py-client                     0.1.13           python         (+1 duplicate)   
+llamaindex-py-client                     0.1.18           python         (+1 duplicate)   
+llamaindex-py-client                     0.1.19           python                          
+lxml                                     5.2.1            python                          
+m2r2                                     0.3.2            python                          
+markdown                                 3.6              python         (+1 duplicate)   
+markdown-it-py                           2.2.0            python                          
+markdown-it-py                           3.0.0            python         (+2 duplicates)  
+markupsafe                               2.1.5            python         (+5 duplicates)  
+marshmallow                              3.20.2           python                          
+marshmallow                              3.21.1           python         (+2 duplicates)  
+marshmallow                              3.21.2           python                          
+matplotlib-inline                        0.1.6            python         (+2 duplicates)  
+matplotlib-inline                        0.1.7            python         (+3 duplicates)  
+mccabe                                   0.7.0            python         (+4 duplicates)  
+mdit-py-plugins                          0.3.5            python                          
+mdit-py-plugins                          0.4.0            python         (+1 duplicate)   
+mdit-py-plugins                          0.4.1            python                          
+mdurl                                    0.1.2            python         (+3 duplicates)  
+mergedeep                                1.3.4            python         (+2 duplicates)  
+mistune                                  0.8.4            python                          
+mistune                                  3.0.2            python         (+5 duplicates)  
+mkdocs                                   1.5.3            python         (+1 duplicate)   
+mkdocs                                   1.6.0            python                          
+mkdocs-autorefs                          1.0.1            python         (+2 duplicates)  
+mkdocs-get-deps                          0.2.0            python                          
+mkdocs-include-dir-to-nav                1.2.0            python         (+2 duplicates)  
+mkdocs-jupyter                           0.24.6           python                          
+mkdocs-jupyter                           0.24.7           python         (+1 duplicate)   
+mkdocs-material                          9.5.13           python                          
+mkdocs-material                          9.5.18           python                          
+mkdocs-material                          9.5.25           python                          
+mkdocs-material-extensions               1.3.1            python         (+2 duplicates)  
+mkdocs-redirects                         1.2.1            python         (+2 duplicates)  
+mkdocstrings                             0.24.1           python                          
+mkdocstrings                             0.24.3           python                          
+mkdocstrings                             0.25.1           python                          
+mkdocstrings-python                      1.10.0           python                          
+mkdocstrings-python                      1.10.3           python                          
+mkdocstrings-python                      1.9.0            python                          
+motor                                    3.4.0            python                          
+multidict                                6.0.5            python         (+4 duplicates)  
+mypy                                     0.991            python         (+4 duplicates)  
+mypy-extensions                          1.0.0            python         (+4 duplicates)  
+myst-nb                                  0.17.2           python                          
+myst-parser                              0.18.1           python                          
+nbclient                                 0.10.0           python         (+4 duplicates)  
+nbclient                                 0.7.4            python                          
+nbclient                                 0.9.0            python                          
+nbconvert                                6.5.4            python                          
+nbconvert                                7.16.1           python                          
+nbconvert                                7.16.2           python         (+1 duplicate)   
+nbconvert                                7.16.3           python         (+1 duplicate)   
+nbconvert                                7.16.4           python                          
+nbformat                                 5.10.2           python                          
+nbformat                                 5.10.3           python                          
+nbformat                                 5.10.4           python         (+3 duplicates)  
+nbformat                                 5.9.2            python                          
+nest-asyncio                             1.6.0            python         (+6 duplicates)  
+networkx                                 3.1              python         (+4 duplicates)  
+nltk                                     3.8.1            python         (+4 duplicates)  
+nodeenv                                  1.8.0            python         (+3 duplicates)  
+nodeenv                                  1.9.0            python                          
+notebook                                 7.1.0            python                          
+notebook                                 7.1.2            python                          
+notebook                                 7.1.3            python         (+1 duplicate)   
+notebook-shim                            0.2.4            python         (+3 duplicates)  
+numpy                                    1.24.4           python         (+4 duplicates)  
+openai                                   1.12.0           python                          
+openai                                   1.14.1           python                          
+openai                                   1.23.1           python         (+1 duplicate)   
+openai                                   1.30.5           python                          
+opendal                                  0.30.3           python                          
+orjson                                   3.10.1           python                          
+overrides                                7.7.0            python         (+3 duplicates)  
+packaging                                23.2             python         (+1 duplicate)   
+packaging                                24.0             python         (+4 duplicates)  
+paginate                                 0.5.6            python         (+2 duplicates)  
+pandas                                   2.0.3            python         (+4 duplicates)  
+pandocfilters                            1.5.1            python         (+6 duplicates)  
+pantsbuild/actions/init-pants            v5-scie-pants    github-action                   
+parso                                    0.8.3            python         (+2 duplicates)  
+parso                                    0.8.4            python         (+3 duplicates)  
+pathspec                                 0.12.1           python         (+6 duplicates)  
+pexpect                                  4.9.0            python         (+6 duplicates)  
+pickleshare                              0.7.5            python         (+4 duplicates)  
+pillow                                   10.3.0           python         (+4 duplicates)  
+pkgutil-resolve-name                     1.3.10           python         (+4 duplicates)  
+platformdirs                             4.2.0            python         (+5 duplicates)  
+platformdirs                             4.2.2            python                          
+playwright                               1.30.0           python                          
+pluggy                                   1.4.0            python         (+3 duplicates)  
+pluggy                                   1.5.0            python                          
+pre-commit                               3.2.0            python         (+4 duplicates)  
+prometheus-client                        0.20.0           python         (+3 duplicates)  
+prompt-toolkit                           3.0.43           python         (+5 duplicates)  
+prompt-toolkit                           3.0.45           python                          
+prv-accountant                           0.2.0            python                          
+psutil                                   5.9.8            python         (+6 duplicates)  
+ptyprocess                               0.7.0            python         (+6 duplicates)  
+pure-eval                                0.2.2            python         (+6 duplicates)  
+pyasn1                                   0.6.0            python                          
+pycparser                                2.21             python         (+1 duplicate)   
+pycparser                                2.22             python         (+3 duplicates)  
+pydantic                                 1.10.15          python                          
+pydantic                                 2.6.1            python                          
+pydantic                                 2.6.4            python                          
+pydantic                                 2.7.0            python                          
+pydantic                                 2.7.2            python                          
+pydantic-core                            2.16.2           python                          
+pydantic-core                            2.16.3           python                          
+pydantic-core                            2.18.1           python                          
+pydantic-core                            2.18.3           python                          
+pydantic-extra-types                     2.6.0            python                          
+pydantic-settings                        2.2.1            python                          
+pygments                                 2.17.2           python         (+4 duplicates)  
+pygments                                 2.18.0           python                          
+pyjwt                                    2.8.0            python                          
+pylint                                   2.15.10          python         (+4 duplicates)  
+pymdown-extensions                       10.7.1           python                          
+pymdown-extensions                       10.8             python                          
+pymdown-extensions                       10.8.1           python                          
+pymongo                                  4.6.3            python                          
+pypdf                                    4.2.0            python         (+2 duplicates)  
+pytest                                   7.2.1            python         (+3 duplicates)  
+pytest                                   8.2.1            python                          
+pytest-asyncio                           0.21.0           python                          
+pytest-asyncio                           0.23.7           python                          
+pytest-dotenv                            0.5.2            python                          
+pytest-mock                              3.11.1           python         (+3 duplicates)  
+pytest-mock                              3.14.0           python                          
+python-dateutil                          2.8.2            python                          
+python-dateutil                          2.9.0.post0      python         (+5 duplicates)  
+python-dotenv                            1.0.1            python         (+1 duplicate)   
+python-jose                              3.3.0            python                          
+python-json-logger                       2.0.7            python         (+3 duplicates)  
+python-multipart                         0.0.9            python                          
+pytz                                     2024.1           python         (+4 duplicates)  
+pywin32                                  306              python         (+5 duplicates)  
+pywinpty                                 2.0.12           python                          
+pywinpty                                 2.0.13           python         (+2 duplicates)  
+pyyaml                                   6.0.1            python         (+5 duplicates)  
+pyyaml-env-tag                           0.1              python         (+1 duplicate)   
+pyyaml_env_tag                           0.1              python                          
+pyzmq                                    25.1.2           python         (+2 duplicates)  
+pyzmq                                    26.0.1           python         (+2 duplicates)  
+pyzmq                                    26.0.3           python                          
+qtconsole                                5.5.1            python         (+3 duplicates)  
+qtpy                                     2.4.1            python         (+3 duplicates)  
+rake-nltk                                1.0.6            python                          
+ratelimit                                2.2.1            python                          
+referencing                              0.33.0           python         (+1 duplicate)   
+referencing                              0.34.0           python         (+3 duplicates)  
+referencing                              0.35.1           python                          
+regex                                    2023.12.25       python         (+2 duplicates)  
+regex                                    2024.4.16        python         (+2 duplicates)  
+regex                                    2024.5.15        python                          
+requests                                 2.31.0           python         (+2 duplicates)  
+requests                                 2.32.0           python                          
+requests                                 2.32.2           python         (+1 duplicate)   
+requests                                 2.32.3           python                          
+rfc3339-validator                        0.1.4            python         (+3 duplicates)  
+rfc3986-validator                        0.1.1            python         (+3 duplicates)  
+rpds-py                                  0.18.0           python         (+5 duplicates)  
+rpds-py                                  0.18.1           python                          
+rsa                                      4.9              python                          
+ruff                                     0.0.292          python         (+4 duplicates)  
+s3transfer                               0.8.2            python                          
+scipy                                    1.10.1           python                          
+selenium                                 4.8.3            python                          
+semanticscholar                          0.4.1            python                          
+send2trash                               1.8.2            python         (+1 duplicate)   
+send2trash                               1.8.3            python         (+1 duplicate)   
+setuptools                               69.1.0           python                          
+setuptools                               69.2.0           python                          
+setuptools                               69.5.1           python         (+1 duplicate)   
+six                                      1.16.0           python         (+6 duplicates)  
+sniffio                                  1.3.0            python                          
+sniffio                                  1.3.1            python         (+3 duplicates)  
+snok/install-poetry                      v1               github-action  (+4 duplicates)  
+snowballstemmer                          2.2.0            python                          
+snowflake-sqlalchemy                     1.4.7            python                          
+soupsieve                                2.5              python         (+6 duplicates)  
+sphinx                                   5.3.0            python                          
+sphinx-autobuild                         2021.3.14        python                          
+sphinx-automodapi                        0.16.0           python                          
+sphinx-basic-ng                          1.0.0b2          python                          
+sphinx-reredirects                       0.1.3            python                          
+sphinx-rtd-theme                         1.3.0            python                          
+sphinxcontrib-applehelp                  1.0.4            python                          
+sphinxcontrib-devhelp                    1.0.2            python                          
+sphinxcontrib-gtagjs                     0.2.1            python                          
+sphinxcontrib-htmlhelp                   2.0.1            python                          
+sphinxcontrib-jquery                     4.1              python                          
+sphinxcontrib-jsmath                     1.0.1            python                          
+sphinxcontrib-qthelp                     1.0.3            python                          
+sphinxcontrib-serializinghtml            1.1.5            python                          
+sqlalchemy                               2.0.27           python                          
+sqlalchemy                               2.0.28           python                          
+sqlalchemy                               2.0.29           python         (+1 duplicate)   
+sqlalchemy                               2.0.30           python                          
+stack-data                               0.6.3            python         (+6 duplicates)  
+starlette                                0.30.0           python                          
+starlette                                0.36.3           python                          
+striprtf                                 0.0.26           python         (+1 duplicate)   
+tabulate                                 0.9.0            python                          
+tenacity                                 8.2.3            python         (+3 duplicates)  
+tenacity                                 8.3.0            python                          
+terminado                                0.18.0           python                          
+terminado                                0.18.1           python         (+2 duplicates)  
+tiktoken                                 0.6.0            python         (+3 duplicates)  
+tiktoken                                 0.7.0            python                          
+tinycss2                                 1.2.1            python         (+5 duplicates)  
+tinycss2                                 1.3.0            python                          
+tokenize-rt                              5.2.0            python         (+4 duplicates)  
+toml                                     0.10.2           python         (+1 duplicate)   
+tomli                                    2.0.1            python         (+4 duplicates)  
+tomlkit                                  0.12.3           python                          
+tomlkit                                  0.12.4           python         (+2 duplicates)  
+tomlkit                                  0.12.5           python                          
+tornado                                  6.4              python         (+6 duplicates)  
+tqdm                                     4.66.3           python         (+3 duplicates)  
+tqdm                                     4.66.4           python                          
+traitlets                                5.14.1           python                          
+traitlets                                5.14.2           python         (+1 duplicate)   
+traitlets                                5.14.3           python         (+3 duplicates)  
+tree-sitter                              0.20.0           python                          
+tree-sitter                              0.20.4           python                          
+tree-sitter                              0.21.0           python                          
+tree-sitter                              0.21.3           python                          
+tree-sitter-languages                    1.10.2           python         (+2 duplicates)  
+tree-sitter-languages                    1.9.1            python                          
+types-cffi                               1.16.0.20240331  python         (+2 duplicates)  
+types-deprecated                         1.2.9.20240106   python                          
+types-deprecated                         1.2.9.20240311   python         (+3 duplicates)  
+types-docutils                           0.20.0.20240201  python                          
+types-docutils                           0.20.0.20240317  python                          
+types-docutils                           0.20.0.20240406  python         (+1 duplicate)   
+types-docutils                           0.21.0.20240423  python                          
+types-protobuf                           4.24.0.20240129  python                          
+types-protobuf                           4.24.0.20240311  python                          
+types-protobuf                           4.25.0.20240417  python         (+2 duplicates)  
+types-pyopenssl                          24.0.0.20240130  python                          
+types-pyopenssl                          24.0.0.20240311  python                          
+types-pyopenssl                          24.0.0.20240417  python         (+1 duplicate)   
+types-pyopenssl                          24.1.0.20240425  python                          
+types-python-dateutil                    2.8.19.20240106  python                          
+types-python-dateutil                    2.9.0.20240316   python         (+2 duplicates)  
+types-pyyaml                             6.0.12.12        python                          
+types-pyyaml                             6.0.12.20240311  python         (+3 duplicates)  
+types-redis                              4.5.5.0          python         (+4 duplicates)  
+types-requests                           2.28.11.8        python         (+3 duplicates)  
+types-requests                           2.31.0.20240406  python                          
+types-requests                           2.31.0.6         python                          
+types-setuptools                         67.1.0.0         python         (+4 duplicates)  
+types-urllib3                            1.26.25.14       python         (+4 duplicates)  
+typing-extensions                        4.10.0           python                          
+typing-extensions                        4.11.0           python         (+2 duplicates)  
+typing-extensions                        4.12.0           python                          
+typing-extensions                        4.9.0            python                          
+typing-inspect                           0.9.0            python         (+4 duplicates)  
+tzdata                                   2024.1           python         (+4 duplicates)  
+ujson                                    5.9.0            python                          
+unstructured                             0.10.18          python                          
+unstructured                             0.8.1            python                          
+uri-template                             1.3.0            python         (+3 duplicates)  
+urllib3                                  1.26.18          python                          
+urllib3                                  2.0.4            python                          
+urllib3                                  2.0.7            python                          
+urllib3                                  2.2.1            python         (+5 duplicates)  
+uvicorn                                  0.27.1           python                          
+uvloop                                   0.19.0           python                          
+vanna                                    0.0.36           python                          
+vellum-ai                                0.0.42           python                          
+virtualenv                               20.25.1          python         (+1 duplicate)   
+virtualenv                               20.25.3          python         (+1 duplicate)   
+virtualenv                               20.26.2          python                          
+watchdog                                 4.0.0            python         (+1 duplicate)   
+watchdog                                 4.0.1            python                          
+watchfiles                               0.21.0           python                          
+wcwidth                                  0.2.13           python         (+6 duplicates)  
+webcolors                                1.13             python         (+3 duplicates)  
+webdriver_manager                        4.0.1            python                          
+webencodings                             0.5.1            python         (+6 duplicates)  
+websocket-client                         1.7.0            python         (+3 duplicates)  
+websockets                               12.0             python                          
+wheel                                    0.43.0           python                          
+widgetsnbextension                       4.0.10           python         (+3 duplicates)  
+wikipedia                                1.4.0            python                          
+wrapt                                    1.16.0           python         (+4 duplicates)  
+yarl                                     1.9.4            python         (+4 duplicates)  
+zipp                                     3.17.0           python                          
+zipp                                     3.18.1           python         (+2 duplicates)  
+zipp                                     3.19.1           python

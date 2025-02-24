@@ -1,0 +1,12 @@
+NAME                         VERSION     TYPE                          
+actions/checkout             v4          github-action  (+1 duplicate)  
+actions/setup-python         v5          github-action  (+1 duplicate)  
+deepdiff                     6.7.1       python                         
+instructor                   0.4.5       python                         
+jsonref                      1.1.0       python                         
+langchain                    0.0.345     python                         
+openai                       1.5.0       python                         
+pypa/gh-action-pypi-publish  release/v1  github-action                  
+python-dotenv                1.0.0       python                         
+rich                         13.7.0      python                         
+termcolor                    2.3.0       python

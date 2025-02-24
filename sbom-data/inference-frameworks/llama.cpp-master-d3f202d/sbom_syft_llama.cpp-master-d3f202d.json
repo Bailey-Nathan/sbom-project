@@ -1,0 +1,10 @@
+NAME                           VERSION  TYPE            
+actions/checkout               v1       github-action    
+actions/checkout               v3       github-action    
+actions/upload-release-asset   v1       github-action    
+docker/build-push-action       v4       github-action    
+docker/login-action            v2       github-action    
+docker/setup-buildx-action     v2       github-action    
+docker/setup-qemu-action       v2       github-action    
+pr-mpt/actions-commit-hash     v2       github-action    
+zendesk/action-create-release  v1       github-action

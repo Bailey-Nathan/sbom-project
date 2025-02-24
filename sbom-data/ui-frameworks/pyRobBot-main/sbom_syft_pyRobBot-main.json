@@ -1,0 +1,6 @@
+NAME                    VERSION  TYPE                          
+actions/cache           v3       github-action  (+1 duplicate)  
+actions/checkout        v3       github-action  (+1 duplicate)  
+actions/setup-python    v4       github-action                  
+codecov/codecov-action  v3       github-action                  
+snok/install-poetry     v1       github-action  (+1 duplicate)

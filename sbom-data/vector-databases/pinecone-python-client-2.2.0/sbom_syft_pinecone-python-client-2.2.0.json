@@ -1,0 +1,16 @@
+NAME                               VERSION  TYPE                          
+actions/checkout                   v1       github-action                  
+actions/checkout                   v2       github-action  (+1 duplicate)  
+actions/github-script              v5       github-action                  
+actions/setup-python               v1       github-action                  
+actions/setup-python               v2       github-action  (+1 duplicate)  
+elgohr/Github-Release-Action       v4       github-action                  
+grpc-gateway-protoc-gen-openapiv2  0.1.0    python                         
+protobuf                           3.19.3   python                         
+pytest                             6.2.4    python                         
+pytest-asyncio                     0.15.1   python                         
+pytest-cov                         2.10.1   python                         
+pytest-mock                        3.6.1    python                         
+pytest-timeout                     1.4.2    python                         
+tox                                3.27.0   python                         
+urllib3_mock                       0.3.3    python

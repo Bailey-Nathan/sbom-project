@@ -1,0 +1,6 @@
+NAME          VERSION  TYPE     
+mock          2.0.0    python    
+pylint        2.3.1    python    
+pytest        4.1.0    python    
+snapshottest  0.5.0    python    
+tox           3.12.1   python

@@ -1,0 +1,28 @@
+NAME                                            VERSION    TYPE                           
+actions/checkout                                v2         github-action  (+2 duplicates)  
+actions/checkout                                v3         github-action  (+3 duplicates)  
+actions/create-release                          v1         github-action                   
+actions/setup-python                            v2         github-action  (+1 duplicate)   
+actions/setup-python                            v4         github-action  (+2 duplicates)  
+actions/upload-release-asset                    v1         github-action                   
+black                                           23.9.1     python                          
+cpina/github-action-push-to-another-repository  main       github-action                   
+elasticsearch                                   8.9.0      python                          
+github/codeql-action/analyze                    v2         github-action                   
+github/codeql-action/autobuild                  v2         github-action                   
+github/codeql-action/init                       v2         github-action                   
+ipython                                         8.10.0     python                          
+mypy                                            0.991      python                          
+pre-commit                                      3.2.0      python                          
+pylint                                          2.15.10    python                          
+pypa/gh-action-pypi-publish                     master     github-action  (+1 duplicate)   
+pytest                                          7.2.1      python                          
+pytest-asyncio                                  0.21.0     python                          
+pytest-dotenv                                   0.5.2      python                          
+pytest-mock                                     3.11.1     python                          
+rake_nltk                                       1.0.6      python                          
+ruff                                            0.0.292    python                          
+types-redis                                     4.5.5.0    python                          
+types-requests                                  2.28.11.8  python                          
+types-setuptools                                67.1.0.0   python                          
+vellum-ai                                       0.0.15     python

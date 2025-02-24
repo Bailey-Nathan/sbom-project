@@ -1,0 +1,12 @@
+NAME                             VERSION  TYPE                          
+actions/checkout                 v3       github-action  (+1 duplicate)  
+actions/checkout                 v4       github-action  (+1 duplicate)  
+actions/checkout                 v4.1.1   github-action                  
+actions/setup-node               v4       github-action                  
+cypress-io/github-action         v6       github-action                  
+docker/build-push-action         v5.3.0   github-action                  
+docker/login-action              v3       github-action                  
+docker/setup-buildx-action       v3.0.0   github-action                  
+docker/setup-qemu-action         v3.0.0   github-action                  
+peter-evans/repository-dispatch  v3       github-action  (+1 duplicate)  
+pnpm/action-setup                v3       github-action

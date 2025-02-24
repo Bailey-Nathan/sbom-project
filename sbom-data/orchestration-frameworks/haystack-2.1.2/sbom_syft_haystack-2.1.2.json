@@ -1,0 +1,28 @@
+NAME                                            VERSION                                   TYPE                                     
+./.github/workflows/tests_skipper_workflow.yml                                            github-action-workflow  (+1 duplicate)    
+act10ns/slack                                   v2                                        github-action                             
+actions/add-to-project                          v1.0.1                                    github-action                             
+actions/cache                                   v4                                        github-action                             
+actions/cache/restore                           v4                                        github-action                             
+actions/checkout                                v4                                        github-action           (+14 duplicates)  
+actions/labeler                                 v5                                        github-action                             
+actions/setup-python                            v5                                        github-action           (+6 duplicates)   
+actions/stale                                   v9                                        github-action                             
+actions/upload-artifact                         v4                                        github-action                             
+aws-actions/configure-aws-credentials           e3dd6a429d7300a6a4c196c26e071d42e0343502  github-action                             
+coverallsapp/github-action                      v2                                        github-action                             
+docker/bake-action                              v4                                        github-action                             
+docker/login-action                             v3                                        github-action                             
+docker/metadata-action                          v5                                        github-action                             
+docker/setup-buildx-action                      v3                                        github-action                             
+docker/setup-qemu-action                        v3                                        github-action                             
+docker://pandoc/core:3.1                                                                  github-action                             
+dorny/paths-filter                              de90cc6fb38fc0963ad72b210f1f284cd68cea36  github-action                             
+fossas/fossa-action                             v1.3.3                                    github-action                             
+int128/datadog-actions-metrics                  v1                                        github-action                             
+iterative/setup-cml                             v3                                        github-action                             
+masci/datadog                                   v1                                        github-action           (+2 duplicates)   
+ncipollo/release-action                         v1                                        github-action                             
+pilosus/action-pip-license-checker              v2                                        github-action                             
+readmeio/rdme                                   v8                                        github-action                             
+tj-actions/changed-files                        v44                                       github-action           (+1 duplicate)

@@ -1,0 +1,23 @@
+NAME                                      VERSION     TYPE                           
+EnricoMi/publish-unit-test-result-action  v1          github-action                   
+actions/cache                             v2          github-action                   
+actions/checkout                          v1          github-action                   
+actions/checkout                          v2          github-action  (+3 duplicates)  
+actions/setup-python                      v2          github-action  (+2 duplicates)  
+actions/upload-artifact                   v2          github-action                   
+aws-actions/configure-aws-credentials     v1          github-action                   
+crazy-max/ghaction-docker-meta            v2          github-action                   
+docker/build-push-action                  v2          github-action                   
+docker/login-action                       v1          github-action                   
+docker/setup-buildx-action                v1          github-action                   
+docker/setup-qemu-action                  v1          github-action                   
+getdaft                                   0.1.20      python         (+1 duplicate)   
+gorillio/github-action-cherry-pick        master      github-action                   
+jlumbroso/free-disk-space                 main        github-action                   
+machulav/ec2-github-runner                v2.3.2      github-action                   
+marshmallow-dataclass                     8.5.4       python                          
+neuropod                                  0.3.0rc6    python                          
+py-cpuinfo                                9.0.0       python                          
+pypa/gh-action-pypi-publish               release/v1  github-action                   
+ray                                       2.3.1       python                          
+shioyang/check-pr-labels-on-push-action   v1.0.6      github-action

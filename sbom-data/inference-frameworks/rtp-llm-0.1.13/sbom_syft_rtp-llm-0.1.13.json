@@ -1,0 +1,15 @@
+NAME                   VERSION  TYPE                   
+fastapi                0.108.0  python                  
+filelock               3.13.1   python                  
+grpcio                 1.62.0   python                  
+numpy                  1.24.1   python                  
+protobuf               3.20.0   python                  
+pydantic               2.5.3    python                  
+sentence-transformers  2.7.0    python                  
+sentencepiece          0.1.99   python                  
+tensorrt               8.6.1    python                  
+tiktoken               0.4.0    python                  
+timm                   0.9.12   python                  
+torchvision            0.16.0   python  (+1 duplicate)  
+transformers           4.39.3   python                  
+uvicorn                0.21.1   python

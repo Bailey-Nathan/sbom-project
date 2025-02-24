@@ -1,0 +1,18 @@
+NAME                        VERSION  TYPE                          
+actions/checkout            v3       github-action                  
+actions/checkout            v4       github-action                  
+actions/upload-artifact     v3       github-action                  
+anthropic                   0.18.1   python                         
+docker/build-push-action    v4       github-action                  
+docker/build-push-action    v5       github-action                  
+docker/login-action         v2       github-action  (+1 duplicate)  
+docker/setup-buildx-action  v2       github-action                  
+docker/setup-buildx-action  v3       github-action                  
+docker/setup-qemu-action    v2       github-action  (+1 duplicate)  
+faiss-cpu                   1.7.4    python                         
+gradio                      4.26.0   python                         
+gradio_client               0.15.1   python                         
+langchain                   0.1.14   python                         
+openai                      1.16.2   python                         
+protobuf                    3.20.3   python                         
+pydantic                    2.5.2    python

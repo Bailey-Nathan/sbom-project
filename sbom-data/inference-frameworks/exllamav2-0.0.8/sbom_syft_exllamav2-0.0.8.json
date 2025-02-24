@@ -1,0 +1,11 @@
+NAME                                               VERSION  TYPE                                    
+./.github/workflows/build-wheels-release-rocm.yml           github-action-workflow                   
+./.github/workflows/build-wheels-rocm.yml                   github-action-workflow                   
+actions/checkout                                   v3       github-action           (+3 duplicates)  
+actions/download-artifact                          v3       github-action                            
+actions/setup-python                               v3       github-action           (+3 duplicates)  
+actions/upload-artifact                            v3       github-action           (+3 duplicates)  
+conda-incubator/setup-miniconda                    v2.2.0   github-action           (+1 duplicate)   
+jlumbroso/free-disk-space                          v1.2.0   github-action           (+3 duplicates)  
+pypa/gh-action-pypi-publish                        v1.8.10  github-action                            
+svenstaro/upload-release-action                    2.6.1    github-action           (+1 duplicate)

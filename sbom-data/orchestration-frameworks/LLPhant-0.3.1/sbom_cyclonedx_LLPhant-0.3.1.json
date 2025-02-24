@@ -1,0 +1,25 @@
+{
+    "$schema": "http://cyclonedx.org/schema/bom-1.5.schema.json",
+    "bomFormat": "CycloneDX",
+    "specVersion": "1.5",
+    "serialNumber": "urn:uuid:39012b86-5dd4-49e7-8f2d-c92792e18564",
+    "version": 1,
+    "metadata": {
+        "timestamp": "2024-06-03T12:44:41+09:30",
+        "tools": {
+            "components": [
+                {
+                    "type": "application",
+                    "author": "anchore",
+                    "name": "syft",
+                    "version": "1.4.1"
+                }
+            ]
+        },
+        "component": {
+            "bom-ref": "cc2376c14c457ea2",
+            "type": "file",
+            "name": "/Users/baileynathan/Documents/Topics_Project/orchestration-frameworks/llphant/LLPhant-0.3.1"
+        }
+    }
+}

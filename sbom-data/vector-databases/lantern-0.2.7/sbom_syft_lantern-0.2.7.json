@@ -1,0 +1,36 @@
+NAME                                  VERSION  TYPE                           
+GitPython                             3.1.43   python                          
+actions/cache                         v4       github-action                   
+actions/cache/save                    v4       github-action                   
+actions/checkout                      v4       github-action  (+4 duplicates)  
+actions/download-artifact             v4       github-action                   
+actions/upload-artifact               v4       github-action  (+3 duplicates)  
+bigdecimal                            3.1.7    gem                             
+codecov/codecov-action                v4       github-action                   
+coderay                               1.1.3    gem                             
+diff-lcs                              1.5.1    gem                             
+docker/build-push-action              v5       github-action                   
+docker/login-action                   v3       github-action                   
+docker/setup-buildx-action            v3       github-action                   
+docker/setup-qemu-action              v3       github-action                   
+geekyeggo/delete-artifact             v4       github-action                   
+hashdiff                              1.1.0    gem                             
+interception                          0.5      gem                             
+method_source                         1.1.0    gem                             
+mxschmitt/action-tmate                v3       github-action                   
+peter-evans/create-or-update-comment  v4       github-action                   
+peter-evans/find-comment              v3       github-action                   
+pg                                    1.5.6    gem                             
+pry                                   0.14.2   gem                             
+pry-rescue                            1.6.0    gem                             
+rainbow                               3.1.1    gem                             
+rspec                                 3.13.0   gem                             
+rspec-core                            3.13.0   gem                             
+rspec-expectations                    3.13.0   gem                             
+rspec-mocks                           3.13.0   gem                             
+rspec-support                         3.13.1   gem                             
+sequel                                5.79.0   gem                             
+softprops/action-gh-release           v1       github-action                   
+testgres                              1.10.0   python                          
+thor                                  1.3.1    gem                             
+var77/bump-homebrew-formula-action    main     github-action

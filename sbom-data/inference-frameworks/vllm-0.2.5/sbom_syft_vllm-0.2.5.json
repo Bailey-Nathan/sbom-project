@@ -1,0 +1,14 @@
+NAME                          VERSION  TYPE                          
+actions/checkout              v2       github-action  (+1 duplicate)  
+actions/checkout              v3       github-action                  
+actions/github-script         v6       github-action                  
+actions/setup-python          v2       github-action  (+1 duplicate)  
+actions/setup-python          v4       github-action                  
+actions/upload-release-asset  v1       github-action                  
+mypy                          0.991    python                         
+pydantic                      1.10.13  python         (+1 duplicate)  
+ruff                          0.1.5    python                         
+sphinx                        6.2.1    python                         
+sphinx-book-theme             1.0.1    python                         
+sphinx-copybutton             0.5.2    python                         
+yapf                          0.32.0   python

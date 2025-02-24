@@ -1,0 +1,38 @@
+NAME                                              VERSION     TYPE                            
+DeterminateSystems/flakehub-push                  main        github-action                    
+DeterminateSystems/magic-nix-cache-action         v2          github-action  (+1 duplicate)    
+DeterminateSystems/nix-installer-action           main        github-action  (+1 duplicate)    
+DeterminateSystems/nix-installer-action           v9          github-action  (+1 duplicate)    
+DeterminateSystems/update-flake-lock              main        github-action                    
+Jimver/cuda-toolkit                               v0.2.11     github-action                    
+Sibz/github-status-action                         v1          github-action                    
+actions/checkout                                  v1          github-action                    
+actions/checkout                                  v2          github-action                    
+actions/checkout                                  v3          github-action                    
+actions/checkout                                  v4          github-action  (+13 duplicates)  
+actions/download-artifact                         v4          github-action                    
+actions/github-script                             v3          github-action                    
+actions/labeler                                   v5          github-action                    
+actions/setup-go                                  v5          github-action                    
+actions/setup-java                                v3          github-action                    
+actions/setup-node                                v4          github-action                    
+actions/setup-python                              v5          github-action  (+4 duplicates)   
+actions/stale                                     v5          github-action                    
+actions/upload-artifact                           v4          github-action  (+1 duplicate)    
+android-actions/setup-android                     v3          github-action                    
+anzz1/action-create-release                       v1          github-action                    
+cachix/cachix-action                              v13         github-action  (+1 duplicate)    
+codecov/codecov-action                            v3          github-action                    
+devicons/public-upload-to-imgur                   v2.2.2      github-action                    
+docker/build-push-action                          v4          github-action                    
+docker/login-action                               v2          github-action                    
+docker/setup-buildx-action                        v2          github-action                    
+docker/setup-qemu-action                          v2          github-action                    
+editorconfig-checker/action-editorconfig-checker  main        github-action                    
+flakestry/flakestry-publish                       main        github-action                    
+gradle-wrapper                                                java-archive                     
+jlumbroso/free-disk-space                         main        github-action                    
+mshick/add-pr-comment                             v2          github-action                    
+msys2/setup-msys2                                 v2          github-action                    
+py-actions/flake8                                 v2          github-action                    
+pypa/gh-action-pypi-publish                       release/v1  github-action

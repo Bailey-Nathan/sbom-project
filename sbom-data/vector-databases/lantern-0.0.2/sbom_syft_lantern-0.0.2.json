@@ -1,0 +1,11 @@
+NAME                        VERSION  TYPE                           
+actions/checkout            v3       github-action  (+2 duplicates)  
+actions/download-artifact   v3       github-action                   
+actions/upload-artifact     v3       github-action  (+1 duplicate)   
+codecov/codecov-action      v3       github-action                   
+docker/build-push-action    v3       github-action                   
+docker/login-action         v2       github-action                   
+docker/setup-buildx-action  v2       github-action                   
+docker/setup-qemu-action    v2       github-action                   
+geekyeggo/delete-artifact   v2       github-action                   
+mxschmitt/action-tmate      v3       github-action

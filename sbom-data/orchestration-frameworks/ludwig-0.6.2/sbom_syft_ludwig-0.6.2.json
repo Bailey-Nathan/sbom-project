@@ -1,0 +1,17 @@
+NAME                                      VERSION   TYPE                           
+EnricoMi/publish-unit-test-result-action  v1        github-action                   
+actions/cache                             v2        github-action                   
+actions/checkout                          v2        github-action  (+2 duplicates)  
+actions/setup-python                      v2        github-action  (+1 duplicate)   
+actions/upload-artifact                   v2        github-action                   
+aws-actions/configure-aws-credentials     v1        github-action                   
+crazy-max/ghaction-docker-meta            v2        github-action                   
+docker/build-push-action                  v2        github-action                   
+docker/login-action                       v1        github-action                   
+docker/setup-buildx-action                v1        github-action                   
+docker/setup-qemu-action                  v1        github-action                   
+machulav/ec2-github-runner                v2.3.2    github-action                   
+marshmallow-dataclass                     8.5.5     python                          
+neuropod                                  0.3.0rc6  python                          
+protobuf                                  3.20.1    python                          
+pyarrow                                   6.0.1     python         (+1 duplicate)

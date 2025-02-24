@@ -1,0 +1,3 @@
+NAME                VERSION  TYPE            
+actions/checkout    v3       github-action    
+actions/setup-node  v3       github-action

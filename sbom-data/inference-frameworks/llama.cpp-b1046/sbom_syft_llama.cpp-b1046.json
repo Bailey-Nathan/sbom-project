@@ -1,0 +1,19 @@
+NAME                                              VERSION  TYPE                           
+Jimver/cuda-toolkit                               v0.2.10  github-action                   
+ZedThree/clang-tidy-review                        v0.13.0  github-action                   
+ZedThree/clang-tidy-review/post                   v0.13.0  github-action                   
+ZedThree/clang-tidy-review/upload                 v0.13.0  github-action                   
+actions/checkout                                  v1       github-action                   
+actions/checkout                                  v3       github-action  (+2 duplicates)  
+actions/download-artifact                         v3       github-action                   
+actions/github-script                             v3       github-action                   
+actions/upload-artifact                           v3       github-action                   
+anzz1/action-create-release                       v1       github-action                   
+docker/build-push-action                          v4       github-action                   
+docker/login-action                               v2       github-action                   
+docker/setup-buildx-action                        v2       github-action                   
+docker/setup-qemu-action                          v2       github-action                   
+editorconfig-checker/action-editorconfig-checker  main     github-action                   
+numpy                                             1.24     python                          
+pr-mpt/actions-commit-hash                        v2       github-action                   
+sentencepiece                                     0.1.98   python
